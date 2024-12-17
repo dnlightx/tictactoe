@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header>
         <h1>Tic Tac Toe</h1>
-        <h3>Created by Promise Omisakin</h3>
+        <h3>by Promise Omisakin</h3>
       </header>
       <TicTacToe />
     </div>
