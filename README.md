@@ -23,4 +23,4 @@ The robot has a 70% chance of making a strategic move:
 - TypeScript
 - CSS
 
-Created by Promise 🚀
+Created by Promise Omisakin 🚀
